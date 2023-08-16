@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate FullStacj developer from Colombia</h3>
+<h3 align="center">A passionate FullStack developer from Colombia</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniFuentesR](https://github.com/DaniFuentesR)
 
